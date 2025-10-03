@@ -40,5 +40,5 @@ All Metrics by Outlet Type → offering a holistic comparison of different outle
 
 These insights can help Blinkit improve decision-making in areas like product placement, outlet performance management, and customer satisfaction. Overall, the project demonstrates the power of data visualization in tracking business growth and optimizing operations."
 
-##Conclusion:
+## Conclusion:
 "This Blinkit project used Power BI to analyze sales, items, and customer ratings. The dashboard revealed insights on product performance, outlet sales, and location trends, helping identify top categories and high-performing outlets. These findings support better decision-making for sales growth and customer satisfaction."
