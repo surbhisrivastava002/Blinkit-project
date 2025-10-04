@@ -16,6 +16,8 @@ The report includes detailed visuals on Fat Content, Sales by Item Types, Outlet
 10.  Sales by Outlet Location
 11.  All Metrics by Outlet Type
 
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsurbhisrivastava002%2FBlinkit-project%2Frefs%2Fheads%2Fmain%2FBlinkIT%2520Grocery%2520Data.xlsx&wdOrigin=BROWSELINK
+
 ## Power BI DashBoard Image
 <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/61077093-78a4-4ca0-b9c4-a118fe0831c6" />
 
